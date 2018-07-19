@@ -441,7 +441,8 @@ strong, b {
 
 .center-img {
   display: block;
-  margin: 0 auto; }
+	margin: 0 auto; 
+}
 
 .shadow-card {
   box-shadow: 0px 0px 28px rgba(0, 0, 0, 0.1);
