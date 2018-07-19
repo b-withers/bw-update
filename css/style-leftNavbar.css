@@ -505,7 +505,7 @@ strong, b {
   z-index: 1; }
 
 .parallax-overlay.overlay-primary:after {
-  background-color: rgba(70, 131, 223, 0.75); }
+  background-color: rgba(95, 148, 247, 0.342); }
 
 /*
 Responsive Utilites Style (This css is removed from beta version)
