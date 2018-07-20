@@ -1,10 +1,3 @@
-/*
- * Author: Digital Zoom Studio
- * Website: http://digitalzoomstudio.net/
- * Portfolio: http://codecanyon.net/user/ZoomIt/portfolio
- *
- * Version: 5.01
- */
 
 "use strict";
 
