@@ -1,15 +1,21 @@
-/*!
- * Start Bootstrap - Thumbnail Gallery (https://startbootstrap.com/template-overviews/thumbnail-gallery)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery/blob/master/LICENSE)
- */
-
-body {
-  padding-top: 54px;
+#myCarousel .list-inline {
+	white-space:nowrap;
+	overflow-x:auto;
 }
 
-@media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
+#myCarousel .carousel-indicators {
+	position: static;
+	left: initial;
+	width: initial;
+	margin-left: initial;
+}
+
+#myCarousel .carousel-indicators > li {
+	width: initial;
+	height: initial;
+	text-indent: initial;
+}
+
+#myCarousel .carousel-indicators > li.active img {
+	opacity: 0.7;
 }
